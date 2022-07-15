@@ -4,7 +4,7 @@ Hi 👋 My name is Fernando Henning Macias
 Software Engineer Student
 -------------------------
 
-I've been learning to code for 4 years now. Throughout my college career I have been interested in various fields of software development, but currently I am developing my skills as a backend developer. My other interests are mobile development and AI (uite a novice, I would say).
+I've been learning to code for 4 years now. Throughout my college career I have been interested in various fields of software development, but currently I am developing my skills as a backend developer. My other interests are mobile development and AI (quite a novice, I would say).
 
 * 🌍  I'm based in Chiapas, Mexico
 * ✉️  You can contact me at [fernando\_hema@hotmail.com](mailto:fernando_hema@hotmail.com)
